@@ -2,7 +2,7 @@ package top150;
 
 import java.util.*;
 
-public class InsertInterval {
+public class InsertIntervals {
 
     public int[][] insert(int[][] intervals, int[] newInterval) {
         List<int[]> res = new ArrayList<>();
